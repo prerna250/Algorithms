@@ -35,4 +35,4 @@ search( arr , x)
 """ The function search() automatically prints the result
  hence a seperate print statement doesn't need to be added
  This can however be easily modified by removing the last 
- statement and adding " return mid "
+ statement and adding*return mid*""" 
